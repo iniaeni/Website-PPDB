@@ -124,7 +124,7 @@
 					</div>
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/dkv.JPG')}}" alt="">
+							<img src="{{asset('assets/img/DKV.JPG')}}" alt="">
 						</div>
 						<h5 class="mb-0 text-center"><b>DKV</b></h5>
 						<h6 class="mb-0 text-center">Desain Komunikasi Visual</h6>
@@ -148,7 +148,7 @@
 					</div>
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/bdp.JPG')}}" alt="">
+							<img src="{{asset('assets/img/BDP.JPG')}}" alt="">
 						</div>
 						<h5 class="mb-0 text-center"><b>PMN</b></h5>
 						<h6 class="mb-0 text-center">Pemasaran</h6>
