@@ -116,7 +116,7 @@
 				<div class="owl-carousel ">
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/rpl.jpg')}}" alt="" >
+							<img src="{{asset('assets/img/rpl.JPG')}}" alt="" >
 						</div>
 						<h5 class="mb-0 text-center"><b>PPLG</b></h5>
 						<h6 class="mb-0 text-center">Pengembangan Perangkat Lunak dan Gim</h6>
@@ -124,7 +124,7 @@
 					</div>
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/DKV.jpg')}}" alt="">
+							<img src="{{asset('assets/img/dkv.JPG')}}" alt="">
 						</div>
 						<h5 class="mb-0 text-center"><b>DKV</b></h5>
 						<h6 class="mb-0 text-center">Desain Komunikasi Visual</h6>
@@ -132,7 +132,7 @@
 					</div>
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/tkj.jpg')}}" alt="">
+							<img src="{{asset('assets/img/tkj.JPG')}}" alt="">
 						</div>
 						<h5 class="mb-0 text-center"><b>TJKT</b></h5>
 						<h6 class="mb-0 text-center">Teknik Jaringan Komputer dan Telekomunikasi</h6>
@@ -148,7 +148,7 @@
 					</div>
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/bdp.jpg')}}" alt="">
+							<img src="{{asset('assets/img/bdp.JPG')}}" alt="">
 						</div>
 						<h5 class="mb-0 text-center"><b>PMN</b></h5>
 						<h6 class="mb-0 text-center">Pemasaran</h6>
@@ -156,7 +156,7 @@
 					</div>
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/hotel.jpg')}}" alt="">
+							<img src="{{asset('assets/img/hotel.JPG')}}" alt="">
 						</div>
 						<h5 class="mb-0 text-center"><b>HTL</b></h5>
 						<h6 class="mb-0 text-center">Perhotelan</h6>
@@ -164,7 +164,7 @@
 					</div>
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/tbg.jpg')}}" alt="">
+							<img src="{{asset('assets/img/tbg.JPG')}}" alt="">
 						</div>
 						<h5 class="mb-0 text-center"><b>KLN</b></h5>
 						<h6 class="mb-0 text-center">Kuliner</h6>
