@@ -242,10 +242,10 @@
 
 		  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="{{asset('assets/img/membaca.jpg')}}" class="img-fluid" alt="">
+              <img src="{{asset('assets/img/membaca.JPG')}}" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <div class="portfolio-links">
-                  <a target="_blank" href="{{asset('assets/img/membaca.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="fas fa-search"></i></a>
+                  <a target="_blank" href="{{asset('assets/img/membaca.JPG')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="fas fa-search"></i></a>
                 </div>
               </div>
             </div>
