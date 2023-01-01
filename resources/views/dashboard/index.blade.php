@@ -116,7 +116,7 @@
 				<div class="owl-carousel ">
 					<div class="slider-card">
 						<div class="d-flex justify-content-center align-items-center mb-4">
-							<img src="{{asset('assets/img/rpl.JPG')}}" alt="" >
+							<img src="{{asset('assets/img/PPLG.JPG')}}" alt="" >
 						</div>
 						<h5 class="mb-0 text-center"><b>PPLG</b></h5>
 						<h6 class="mb-0 text-center">Pengembangan Perangkat Lunak dan Gim</h6>
