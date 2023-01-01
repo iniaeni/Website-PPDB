@@ -217,17 +217,44 @@
               </div>
             </div>
           </div>
-      </div>
-      <div class="container text-center">
-        <div class="row">
-          <div class="col order-last">
-            <iframe width="500" height="315" src="https://www.youtube.com/embed/h9LI6Y348vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
+		  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="{{asset('assets/img/sekolahPK.jpeg')}}" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a target="_blank" href="{{asset('assets/img/sekolakPK.jpeg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="fas fa-search"></i></a>
+                </div>
+              </div>
+            </div>
           </div>
-          <div class="col order-first">
-            <iframe width="500" height="315" src="https://www.youtube.com/embed/6jGvss8_Jz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="{{asset('assets/img/sekolahUnggul.png')}}" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a target="_blank" href="{{asset('assets/img/sekolahUnggul.png')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="fas fa-search"></i></a>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
+
+		  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="{{asset('assets/img/membaca.jpg')}}" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a target="_blank" href="{{asset('assets/img/membaca.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="fas fa-search"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+		
+      
+		
+      
+		
       
         </div>
     </section>
